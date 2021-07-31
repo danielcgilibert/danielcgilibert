@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Carmona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcarmonagilibert)](https://www.linkedin.com/in/danielcarmonagilibert)
 [![Gmail Badge](https://img.shields.io/badge/-danielcgilibert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcgilibert@gmail.com)](mailto:danielcgilibert@gmail.com)
 
-**Languages and Tools:**  
+**Lenguajes y Herramientas:**  
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
