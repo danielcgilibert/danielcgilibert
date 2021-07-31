@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Carmona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcarmonagilibert)](https://www.linkedin.com/in/danielcarmonagilibert)
 [![Gmail Badge](https://img.shields.io/badge/-danielcgilibert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcgilibert@gmail.com)](mailto:danielcgilibert@gmail.com)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielcgilibert&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+
 
 **Lenguajes y Herramientas:**  
 
@@ -22,11 +24,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcgilibert&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcgilibert&langs_count=3&hide_title=true&hide_border=true" />
-</a>
 
