@@ -1,4 +1,3 @@
-<h3> Hola, Soy Daniel <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Carmona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielcarmonagilibert)](https://www.linkedin.com/in/danielcarmonagilibert)
 [![Gmail Badge](https://img.shields.io/badge/-danielcgilibert@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielcgilibert@gmail.com)](mailto:danielcgilibert@gmail.com)
