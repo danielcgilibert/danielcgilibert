@@ -9,15 +9,16 @@
 <a href="https://linkedin.com/in/danielcgiliert" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+  <br/> 
 <br/> 
-<br/>  
+  
 
 
-**Lenguajes y Herramientas:**  
+<hr/>
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=danielcgilibert&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
+<br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
