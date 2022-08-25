@@ -1,5 +1,9 @@
 
-
+<p align="center" width="300">
+   <h3 align="center">¡Hey    <img align="center" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+! Soy Daniel 👨🏻‍💻</h3>
+</p>
+<p align="center">
 <a href="https://github.com/danielcgiliert" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -8,9 +12,10 @@
 </a>
 <a href="https://linkedin.com/in/danielcgiliert" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  <br/> 
-<br/> 
+</a> 
+</p>
+ 
+
   
 
 
